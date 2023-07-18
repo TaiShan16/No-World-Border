@@ -44,11 +44,11 @@ In conclusion, No World Border was able to decide that Sri Lanka,  with an HDI r
 * https://www.kaggle.com/datasets/ashishraut64/internet-users
 
 ### Team Members:
-Ratima Chowadee
-Kelly Hendre
-Rodrecus Hughes
-Lynn Orr
-Luis Aguayo
+- Ratima Chowadee
+- Kelly Hendre
+- Rodrecus Hughes
+- Lynn Orr
+- Luis Aguayo
 
 
 
